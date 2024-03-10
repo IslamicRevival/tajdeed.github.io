@@ -3,7 +3,7 @@ title: Welcome to Tajdeed!
 date: 2024-03-10 13:06:00 Z
 ---
 
-As-salamu alaykum!
+# As-salamu alaykum!
 
 The Islamic Revival framework was setup to build a long-lived repository to share, archive & search Islamic knowledge.
 
